@@ -88,7 +88,7 @@ Clone the repo:
 
 
 
-git clone https://github.com/sowmya\_budumuru/driver-drowsiness-detection.git
+git clone https://github.com/sowmya-budumuru/driver-drowsiness-detection.git
 
 cd driver-drowsiness-detection
 
